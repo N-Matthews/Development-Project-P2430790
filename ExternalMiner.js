@@ -20,7 +20,7 @@ class RNum2 {//RNum2 class is initialized - generates random number pool
 }
 class rawnum2 {//rawnum2 class is created for directly sending the unhashed contents to the Local miner 
     r2(){//r2 method is created
-    r2 = (numberGenerator);//r2 gains the value from the external miner's unhashed random number pool
+    r2 = (numb(numberGenerator));//r2 gains the value from the external miner's unhashed random number pool
     }
 }
 
